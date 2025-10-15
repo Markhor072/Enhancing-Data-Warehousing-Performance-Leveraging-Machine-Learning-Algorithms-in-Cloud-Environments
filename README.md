@@ -97,7 +97,7 @@ Using the **UCI HAR Dataset**, the project demonstrates how **machine learning**
 **Hassan Shahid**  
 MS Data Science | NUST MISIS  
 📍 Moscow, Russia  
-📧 Email: [your_email@example.com]  
+📧 Email: [shahid.nust.misis.ru@gmail.com]  
 🔗 GitHub: [https://github.com/Markhor072](https://github.com/Markhor072)
 
 ---
